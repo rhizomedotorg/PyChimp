@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='pychimp',
-    version=__import__('pychimp').__version__,
+    version=0.1,
     description='A reusable Django app for queuing the sending of email',
     author='Hunter Ford',
     author_email='hunterford@gmail.com',
